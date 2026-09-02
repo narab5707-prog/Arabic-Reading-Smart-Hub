@@ -1,0 +1,6 @@
+{
+  "name": "Arabic Reading Smart Hub",
+  "description": "Platform cerdas pembacaan teks Arab interaktif dengan terjemahan per kata, perekam audio latihan membaca, kontrol harakat & font, serta analisis kaidah tata bahasa AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
